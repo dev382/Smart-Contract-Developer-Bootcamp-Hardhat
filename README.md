@@ -1,12 +1,6 @@
-# Chainlink's Smart Contract Developer Bootcamp
+![Bootcamp](https://user-images.githubusercontent.com/75185644/128787371-504d9165-3830-47a2-8785-ab891585193b.PNG)
 
 Developer bootcamp for learning how to write smart contracts in Solidity, and connect them to real-world data in a live, instructor-led group session with Chainlink Developer Advocates.
-
-## Images
-
-> #### Bootcamp
-
-> ![Bootcamp](https://user-images.githubusercontent.com/75185644/128787371-504d9165-3830-47a2-8785-ab891585193b.PNG)
 
 ## Exercises covered:
 
