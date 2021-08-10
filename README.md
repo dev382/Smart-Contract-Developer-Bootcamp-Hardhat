@@ -4,7 +4,7 @@ Developer bootcamp for learning how to write smart contracts in Solidity, and co
 
 ## Exercises covered:
 
-- How to create a new smart contract project using the Hardhat Development Environment, then deploy it to the Kovan network and interact with the it.
+- How to create a new smart contract project with the Hardhat Development Environment, deploy it to the Kovan network and interact with it.
 
 - How to use the Hardhat Starter Kit to create, deploy and execute smart contracts that use Chainlink Data Feeds, Any-API and VRF. The following tasks were completed:
 
