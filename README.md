@@ -36,7 +36,7 @@ Developer bootcamp for learning how to write smart contracts in Solidity, and co
 - Infura
 - Yarn Package Manager
 
-## Getting Started - Installation
+## Installation
 
 Set your `KOVAN_RPC_URL` [environment variable.](https://www.twilio.com/blog/2017/01/how-to-set-environment-variables.html). You can get one for free at [Infura's site.](https://infura.io/) You'll also need to set the variable `PRIVATE_KEY` which is your private key from you wallet, ie MetaMask. This is needed for deploying contracts to public networks.
 
